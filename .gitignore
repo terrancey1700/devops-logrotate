@@ -1,0 +1,15 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore log and compressed files
+*.log
+*.gz
+
+# Ignore logs directory output (but keep the folder)
+logs/*
+!logs/.keep
+
+# Ignore temporary or backup files
+*.tmp
+*.bak
+
