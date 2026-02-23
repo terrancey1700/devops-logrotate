@@ -7,7 +7,7 @@ Automated log rotation, compression, and retention enforcement on macOS using Ba
 
 ---
 
-## Executive Summary (STAR Method)
+## Executive Summary
 
 ### Situation
 
